@@ -1,5 +1,5 @@
 # Predicting West Nile Virus in Chicago
-### March 2108
+### March 2018
 Predict when and where mosquitos will test positive for West Nile virus to help the City of Chicago allocate resources towards preventing transmission
 * Goal: to build a model and make predictions that the city of Chicago can use when it decides where to spray pesticides.
 
